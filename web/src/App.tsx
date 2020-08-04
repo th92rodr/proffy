@@ -2,8 +2,10 @@ import React from 'react';
 
 import './assets/styles/global.css';
 
+import Landing from './pages/Landing';
+
 function App() {
-  return <div></div>;
+  return <Landing />;
 }
 
 export default App;
