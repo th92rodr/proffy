@@ -21,7 +21,7 @@ function TeacherList() {
           </div>
 
           <div className='input-block'>
-            <label htmlFor='time'>Hora</label>
+            <label htmlFor='time'>Horário</label>
             <input type='text' id='time' />
           </div>
         </form>
