@@ -34,7 +34,7 @@ function Landing() {
 
   return (
     <View style={styles.container}>
-      <Image source={LandingImg} />
+      <Image style={styles.banner} source={LandingImg} />
 
       <Text style={styles.title}>
         Seja bem-vindo, {'\n'}
