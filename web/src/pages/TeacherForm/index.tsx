@@ -142,7 +142,7 @@ function TeacherForm() {
             />
             <Input
               name='cost'
-              label='Custo da sua hora por aula'
+              label='Custo da sua aula por hora'
               value={cost}
               onChange={e => {
                 setCost(e.target.value);
